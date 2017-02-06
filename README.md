@@ -30,4 +30,4 @@ https://firebase.google.com/docs/web/setup
 Kattava kasa erilaisia esimerkkiprojekteja
 https://firebase.google.com/docs/samples/#web
 
-Huomioitavaa: kaikki esimerkit toimivat pelkällä html-tiedostolla, joka sisältää JavaScript-koodia, ja joka on avattu paikallisesti omassa nettiselaimessa file://...:n kautta. Kokeillaksesi näitä esimerkkejä ja demoillaksesi Firebasen kanssa mitään ei tarvitse osata laittaa Internetiin kaikkien saataville.
+**Huomioitavaa:** kaikki esimerkit toimivat pelkällä html-tiedostolla, joka sisältää JavaScript-koodia, ja joka on avattu paikallisesti omassa nettiselaimessa file://...:n kautta. Kokeillaksesi näitä esimerkkejä ja demoillaksesi Firebasen kanssa mitään **ei** tarvitse osata laittaa Internetiin kaikkien saataville.
